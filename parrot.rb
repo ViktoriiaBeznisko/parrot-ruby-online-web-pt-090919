@@ -5,7 +5,7 @@ def parrot
  
   return phrase = "Squawk!"
   
-  return phrase = "Pretty bird!"
+  phrase = "Pretty bird!"
   puts parrot
   
 end
